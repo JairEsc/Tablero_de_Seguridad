@@ -1,3 +1,5 @@
+Se puede ver en: 
+http://sigeh.hidalgo.gob.mx/pags/seguridad/
 Tablero de Datos de Seguridad 📊
 Este tablero utiliza JavaScript Vanilla y algo de jQuery, pero su herramienta predominante es Leaflet JS para visualización geoespacial.
 
